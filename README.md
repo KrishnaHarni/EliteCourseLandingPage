@@ -1,5 +1,6 @@
 # Elite Course Landing Page
-A simple and elegant static landing page for an elite course. This page is designed to showcase course highlights, attract potential learners, and encourage them to enroll.
+A simple and elegant static landing page for an elite course. This page is designed to showcase course highlights, attract potential learners, and encourage them to enroll. <br/>
+## 🔗 [Live Demo](https://landingpageelitecourses.netlify.app/)
 
 ## 🚀 Features
 - Fully responsive design
